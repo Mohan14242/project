@@ -3,29 +3,29 @@ mongodb ansible_host=3.81.122.112
 
 
 [catalogue]
-ansible_host=107.20.93.85
+catalogue ansible_host=107.20.93.85
 
 [web]
-ansible_host=35.173.184.117 
+web ansible_host=35.173.184.117 
 
 
 [redis]
-ansible_host=54.81.251.158
+redis ansible_host=54.81.251.158
 
 [user]
-ansible_host=54.90.179.48
+user ansible_host=54.90.179.48
 
 [cart]
-ansible_host=18.215.242.135
+cart ansible_host=18.215.242.135
 
 [mysql]
-ansible_host=107.22.0.203
+mysql ansible_host=107.22.0.203
 
 [shipping]
-ansible_host=18.206.217.107
+shipping ansible_host=18.206.217.107
 
 [rabbitmq]
-ansible_host=3.81.85.93
+rabbitmq ansible_host=3.81.85.93
 
 [payment]
-ansible_host=54.161.65.48
+payment ansible_host=54.161.65.48
