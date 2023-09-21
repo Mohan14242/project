@@ -1,7 +1,6 @@
 [mongodb]
-ansible_host= 3.81.122.112
-ansible_user= centos
-ansible_password=DevOps321
+mongodb ansible_host= 3.81.122.112
+
 
 [catalogue]
 ansible_host=107.20.93.85
